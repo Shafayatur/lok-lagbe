@@ -1,5 +1,5 @@
 # Lok Lagbe? | লোক লাগবে?
-### Assessment 4 — Full-Stack Service Marketplace
+### Full-Stack Service Marketplace
 
 A home service marketplace for Bangladesh where customers hire verified professionals for plumbing, electrical, cleaning, and more.
 
